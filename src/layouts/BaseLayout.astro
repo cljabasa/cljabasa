@@ -13,25 +13,34 @@ const { title } = Astro.props;
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    >
 
     <style>
       .nav-desktop {
         @apply hidden md:inline-flex lg:inline-flex xl:inline-flex 2xl:inline-flex flex flex-row
           space-x-8;
       }
+
+      .nav-item-desktop:hover {
+        opacity: 0.75;
+      }
     </style>
   </head>
 
   <body>
     <header>
-      <div class="h-14 flex flex-row justify-between items-center px-6">
-        <h4><a href="/">Christian Jabasa</a></h4>
+      <div class="container mx-auto">
+        <div class="h-14 flex flex-row justify-between items-center px-6">
+          <h4><a href="/" class="nav-item-desktop text-lg">Christian Jabasa</a></h4>
 
-        <div class="nav-desktop">
-          <a href="/blog">Blog</a>
-          <a href="/uses">Uses</a>
-          <a href="/about">About</a>
+          <div class="nav-desktop">
+            <a href="/blog" class="nav-item-desktop">Blog</a>
+            <a href="/uses" class="nav-item-desktop">Uses</a>
+            <a href="/about" class="nav-item-desktop">About</a>
+          </div>
         </div>
       </div>
     </header>
