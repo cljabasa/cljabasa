@@ -40,6 +40,12 @@ const { content } = Astro.props;
         <div class="blog-post-container-col">
           <div class="mb-8">
             <h2 class="post-title">{content.title}</h2>
+
+            <div class="flex flex-row space-x-8 items-baseline">
+              <h5 class="post-author">{content.author}</h5>
+
+              <h6 class="post-timestamp">{content.publishDate}</h6>
+            </div>
           </div>
 
           <slot />

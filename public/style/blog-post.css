@@ -1,5 +1,13 @@
-.post-title {
+.blog-post-container-col .post-title {
   @apply text-4xl lg:text-5xl font-black !important;
+}
+
+.blog-post-container-col .post-author {
+  @apply text-base font-medium !important;
+}
+
+.blog-post-container-col .post-timestamp {
+  @apply text-sm font-normal !important;
 }
 
 .blog-post-container-col h1 {
