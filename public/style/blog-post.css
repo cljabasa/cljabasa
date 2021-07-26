@@ -1,0 +1,55 @@
+.post-title {
+  @apply text-4xl lg:text-5xl font-black !important;
+}
+
+.blog-post-container-col h1 {
+  @apply text-4xl font-bold mt-4 mb-2;
+}
+
+.blog-post-container-col h2 {
+  @apply text-3xl font-bold mt-4 mb-2;
+}
+
+.blog-post-container-col h3 {
+  @apply text-2xl font-bold mt-4 mb-2;
+}
+
+.blog-post-container-col h4 {
+  @apply text-xl font-bold mt-4 mb-2;
+}
+
+.blog-post-container-col h5 {
+  @apply text-lg font-bold;
+}
+
+.blog-post-container-col h6 {
+  @apply text-sm font-bold;
+}
+
+.blog-post-container-col p {
+  @apply text-lg mt-2 mb-4;
+}
+
+.blog-post-container-col a {
+  @apply text-blue-600;
+}
+
+.blog-post-container-col ul {
+  @apply list-disc pl-6;
+}
+
+.blog-post-container-col ul li {
+  @apply text-lg;
+}
+
+.blog-post-container-col ol {
+  @apply list-decimal pl-6;
+}
+
+.blog-post-container-col ol li {
+  @apply text-lg;
+}
+
+.blog-post-container-col img {
+  @apply rounded-md shadow-md mt-4 mb-8;
+}

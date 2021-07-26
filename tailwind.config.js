@@ -20,4 +20,7 @@ module.exports = {
       mono: ['Menlo', 'Consolas', 'monospaced'],
     },
   },
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+  ],
 };

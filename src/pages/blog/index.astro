@@ -1,5 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const blogPostsRaw = Astro.fetchContent('./*.md');
+const nlogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 ---
 <BaseLayout title="Christian Jabasa's Blog | Christian Jabasa">
   <div class="flex flex-col">

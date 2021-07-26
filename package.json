@@ -10,5 +10,8 @@
     "@astrojs/renderer-react": "^0.1.5",
     "astro": "^0.17.3",
     "tailwindcss": "^2.2.7"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1"
   }
 }
