@@ -1,0 +1,51 @@
+.markdown-content-container h1 {
+  @apply text-4xl font-bold mt-4 mb-2;
+}
+
+.markdown-content-container h2 {
+  @apply text-3xl font-bold mt-4 mb-2;
+}
+
+.markdown-content-container h3 {
+  @apply text-2xl font-bold mt-4 mb-2;
+}
+
+.markdown-content-container h4 {
+  @apply text-xl font-bold mt-4 mb-2;
+}
+
+.markdown-content-container h5 {
+  @apply text-lg font-bold;
+}
+
+.markdown-content-container h6 {
+  @apply text-sm font-bold;
+}
+
+.markdown-content-container p {
+  @apply text-lg mt-2 mb-4;
+}
+
+.markdown-content-container a {
+  @apply text-blue-600;
+}
+
+.markdown-content-container ul {
+  @apply list-disc pl-6;
+}
+
+.markdown-content-container ul li {
+  @apply text-lg;
+}
+
+.markdown-content-container ol {
+  @apply list-decimal pl-6;
+}
+
+.markdown-content-container ol li {
+  @apply text-lg;
+}
+
+.markdown-content-container img {
+  @apply rounded-md shadow-md mt-4 mb-8;
+}

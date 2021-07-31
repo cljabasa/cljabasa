@@ -1,13 +1,95 @@
 ---
+import { Markdown } from 'astro/components';
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 <BaseLayout title="Uses | Christian Jabasa">
-  <div class="flex flex-col">
-    <div class="hero-container-row px-6">
+  <div class="flex flex-col pb-16">
+    <div class="hero-container-row px-6 mb-4">
       <div class="hero-container">
         <h1 class="hero-title">Uses</h1>
 
         <h4 class="hero-subtitle">The apps. The gear. The services.</h4>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center mb-8">
+      <div class="w-full lg:w-8/12 flex flex-col">
+        <img
+          src="https://res.cloudinary.com/kadto/image/upload/v1620737060/cljabasa/uses/julian-steenbergen-eSr6s_8OOs4-unsplash.jpg"
+          alt="A MacBook with AirPods on top and an iPhone to its left"
+          class="rounded-md shadow-md"
+        />
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center px-6 mb-8">
+      <div class="markdown-content-container w-full lg:w-7/12 flex flex-col">
+        <Markdown>
+          # Development
+
+          - [VS Code](https://code.visualstudio.com/) - Yes, I finally gave up on Sublime Text.
+          - [Insomnia](https://insomnia.rest) - REST client of choice.
+          - [iTerm2](https://iterm2.com) - Better customization options than Terminal.app.
+          - [Postico](https://eggerapps.at/postico/) - `pql` GUI.
+
+          ## Others
+
+          - [MonoLisa Font](https://monolisa.dev) - I was reluctant to spend money on a font when I got by just fine for years with free ones but this one is totally worth every dollar. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) was what I had been using before.
+          - [VS Code Night Owl Theme](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) - Editor color scheme of choice for years. Good colors and sexy italics.
+          - [Insomnia Night Owl Theme](https://www.npmjs.com/package/insomnia-plugin-night-owl-theme) - Of course.
+          - [iTerm2 Night Owl Theme](https://github.com/nickcernis/iterm2-night-owl) - Duh.
+          - [DuckDuckGo](https://ddg.gg) - Default search engine on all browsers.
+
+          # Desktop Apps
+
+          - [Stand](https://getstandapp.com) - A godsend when working for long stretches.
+          - [Wipr](https://giorgiocalderolla.com/wipr.html) - No-nonsense content blocker for Safari. I use the [uBlock Origin](https://github.com/gorhill/uBlock) browser extension on Firefox and Chromium-based browsers.
+          - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Because macOS doesn't have window snapping out-of-the-box.
+          - [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) - You need this. Trust me.
+          - [iStat Menus](https://bjango.com/mac/istatmenus/) - Lets me know when my base-model 2020 Intel MacBook Air is about to explode.
+          - [DaisyDisk](https://daisydiskapp.com) - Made the sting of using a 128GB SSD less painful.
+          - [IINA](https://iina.io) - Built on top of [mpv](https://mpv.io). Perfect balance of power and simplicity.
+
+          # CLIs
+
+          - [`brew`](https://brew.sh) - Vastly easier installation of CLI and GUI apps than graphical setup wizards.
+          - [`diceware`](https://github.com/ulif/diceware) - Because a man needs to generate his passphrases.
+          - [`tldr`](https://tldr.sh) - Simplified `man` pages.
+          - [`speedtest`](https://github.com/sivel/speedtest-cli) - Speedtest.net straight from the Terminal.
+          - [`n`](https://github.com/tj/n) - A better `nvm`, IMO.
+
+          # Phone Apps
+
+          - [Overcast](https://overcast.fm) - Podcast listening app of choice.
+          - [Nudget](https://nudgetapp.com) - Super simple budgeting app.
+          - [Tailor](https://apps.apple.com/ph/app/tailor-screenshot-stitching/id926653095) - Screenshots stitching.
+          - [Apollo](https://apolloapp.io) - Best reddit client on iOS.
+
+          I just use a lot of first-party iOS apps for the rest: Mail, Reminders, Notes, Weather, etc.
+
+          ## Services and Subscriptions
+
+          - [1Password](https://1password.com) - The best damn password manager on the planet.
+          - [Apple One (Family)](https://www.apple.com/ph/apple-one/) - Paying primarily for Apple Music. I figured I'd pull the trigger on Apple One since I play Fantasian and watch Ted Lasso on Arcade and TV+ respectively.
+          - [Netflix](https://netflix.com) - You already know what this is.
+
+          ## Gear
+
+          - Apple MacBook Air (13-inch, 2020, Intel Core i3) - A laptop that always has me on my toes becaues of how hot it gets. Apple's horrendous cooling solution and Intel's infernal CPU are a match made in hell.
+          - [Apple iPhone XR](/blog/iphone-xr-review) - Excellent budget iPhone that I see myself using for three more years
+
+          ### Audio
+
+          - [Sony WH-1000XM3](https://www.sony.com.ph/electronics/headband-headphones/wh-1000xm3) - These'll take you to sonic wonderland and silence paradise.
+          - [Apple AirPods with Charging Case (2nd Generation)](https://www.apple.com/ph/airpods-2nd-generation/) - Pricey magical earbuds with crappy sound.
+          - [Sennheiser CX 80S](https://ph.sennheiser.com/products/cx-80s) - These sound better than my AirPods and they're like 20% the price.
+
+          ### Peripherals
+          - [Logitech K380 Multi-Device Bluetooth Keyboard](https://www.logitech.com/en-ph/products/keyboards/k380-multi-device.920-007597.html) - Decent budget bluetooth keyboard.
+          - [Logitech MX Anywhere 2S Bluetooth Mouse](https://shopee.ph/Logitech-MX-Anywhere-2S-Wireless-Mobile-Mouse-(Graphite)-(ONLINE-EXCLUSIVE)-i.55502962.1568650454) - Last-gen flagship travel mouse from Logitech.
+          - [8BitDo SN30 Pro+](https://www.8bitdo.com/sn30-pro-plus/) - For playing Hollow Knight, Stardew Valley, and Fantasian.
+          - A random laptop stand I got on Shopee to elevate my computer closer to line of sight.
+        </Markdown>
       </div>
     </div>
   </div>
