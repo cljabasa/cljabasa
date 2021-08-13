@@ -7,7 +7,7 @@ heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1627899179/cljabasa/b
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 
-I solve problems through software for a living. No easy feat. White I do demand silence when I need to get into the nitty-gritty, more often than not, I turn to music to get the creative juices flowing.
+I solve problems through software for a living. No easy feat. While I do demand silence when I need to get into the nitty-gritty, more often than not, I turn to music to get the creative juices flowing.
 
 Let's talk about criteria. Given that I can't stand the mere sound of people talking, I prefer instrumental, ambient music while working. Vocals are fine but they have to not be in english; choirs get the job done, too. Lastly, I'm not a fan of playlists so I pick hour-long albums instead.
 
