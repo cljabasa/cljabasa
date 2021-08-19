@@ -17,7 +17,7 @@ const blogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date
     <div class="flex flex-row justify-center">
       <div class="w-full lg:w-7/12 flex flex-col space-y-16 px-6">
         {blogPosts.map(blogPost => (
-          <a href={`/blog${blogPost.url}`}>
+          <a href={`/${blogPost.url}`}>
             <div>
               <div class="mb-6">
                 <img src={blogPost.heroImage} alt="" class="rounded-md shadow-md">
