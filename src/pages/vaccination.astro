@@ -17,10 +17,13 @@ console.log(new Date(Date.datetime));
       </div>
     </div>
 
-    <div class="flex flex row px-6 lg:px-0">
+    <div class="flex flex row px-6">
       <div class="vaccination-hero-container-row">
-        <div class="flex flex-col text-center leading-tight">
-          <h1 class="vaccination-hero-heading">1/2</h1>
+        <div class="flex flex-col text-center leading-tight space-y-8">
+          <div class="flex flex-col text-center leading-tight">
+            <h1 class="vaccination-hero-title">1/2</h1>
+            <h3 class="vaccination-hero-subtitle">Sinovac</h3>
+          </div>
 
           <div class="flex flex-col text-center leading-tight">
             <h4 class="text-white text-sm lg:text-base">
@@ -29,7 +32,6 @@ console.log(new Date(Date.datetime));
             <h4 class="text-white text-sm lg:text-base">
               2nd Shot - 10 September, 2021 (¯\_(ツ)_/¯)
             </h4>
-            <h4 class="text-white text-xl lg:text-3xl">Halfway there.</h4>
           </div>
 
         </div>
@@ -43,9 +45,14 @@ console.log(new Date(Date.datetime));
   @apply bg-yellow-500 flex flex-row w-full justify-center rounded-md shadow-md py-8 pb-16 my-8;
 }
 
-.vaccination-hero-heading {
+.vaccination-hero-title {
   font-size: 256px;
+  margin-bottom: -40px;
   @apply text-white font-black;
+}
+
+.vaccination-hero-subtitle {
+  @apply text-xl text-white font-black;
 }
 
 </style>
