@@ -4,11 +4,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const response = await fetch('http://worldtimeapi.org/api/timezone/Asia/Manila');
 const data = await response.json();
-
-console.log(new Date(Date.datetime));
 ---
 <BaseLayout title="COVID-19 Vaccination | Christian Jabasa">
-  <div class="flex flex-col">
+  <div class="flex flex-col pb-16">
     <div class="hero-container-row px-6">
       <div class="hero-container">
         <h1 class="hero-title">COVID-19 Vaccination</h1>
@@ -17,24 +15,35 @@ console.log(new Date(Date.datetime));
       </div>
     </div>
 
-    <div class="flex flex row px-6">
+    <div class="flex flex-row px-6 mb-6">
       <div class="vaccination-hero-container-row">
-        <div class="flex flex-col text-center leading-tight space-y-8">
-          <div class="flex flex-col text-center leading-tight">
-            <h1 class="vaccination-hero-title">1/2</h1>
-            <h3 class="vaccination-hero-subtitle">Sinovac</h3>
-          </div>
-
-          <div class="flex flex-col text-center leading-tight">
-            <h4 class="text-white text-sm lg:text-base">
-              1st Shot - 13 August, 2021 (12:52 PM)
-            </h4>
-            <h4 class="text-white text-sm lg:text-base">
-              2nd Shot - 10 September, 2021 (¯\_(ツ)_/¯)
-            </h4>
-          </div>
-
+        <div class="flex flex-col text-center leading-tight">>
+          <h1 class="vaccination-hero-title">1/2</h1>
+          <h3 class="vaccination-hero-subtitle">Sinovac</h3>
         </div>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center px-6 mb-6">
+      <div class="w-full md:w-7/12 2xl:w-6/12 flex flex-col">
+        <div class="flex flex-row mb-6">
+          <h2 class="text-4xl font-bold">Timeline</h2>
+        </div>
+
+        <ul class="list-disc space-y-4 pl-4">
+          <li>
+            <div class="flex flex-col">
+              <h3 class="text-xl">13 August, 2021 (12:52 PM)</h3>
+              <h5 class="text-gray-500 text-sm font-semibold">1st Shot</h5>
+            </div>
+          </li>
+          <li>
+            <div class="flex flex-col">
+              <h3 class="text-xl">10 September, 2021</h3>
+              <h5 class="text-gray-500 text-sm font-semibold">2nd Shot</h5>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
