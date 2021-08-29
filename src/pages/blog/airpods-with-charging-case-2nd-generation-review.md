@@ -53,7 +53,7 @@ Music has wide soundstrage and good separation but sound insultingly lifeless on
 
 ## Battery
 
-Apple claims up to five hours music listening on a full charge. Now, I have never worn any headphones for that long so it's hard for me to quantify battery life. But if my few minutes of use is to be believed, Apple's claims do hold up. After listening to podcasts at 50% volume for about ninety-minutes I managed to get the AirPods down to roughly 75% battery. The good news is that is easy to top-up the AirPods' batteries. Fifteen-minutes in the charging case should give you about three hours of music playback, if Apple is to be believed.
+Apple claims up to five hours music listening on a full charge. Now, I have never worn any headphones for that long so it's hard for me to quantify battery life. But if my few minutes of use is to be believed, Apple's claims do hold up. After listening to podcasts at 50% volume for about ninety-minutes I managed to get the AirPods down to roughly 75% battery. The good news is that it is easy to top-up the AirPods' batteries. Fifteen-minutes in the charging case should give you about three hours of music playback, if Apple is to be believed.
 
 ![AirPods Battery](https://res.cloudinary.com/kadto/image/upload/v1615380734/cljabasa/blog/20200307-airpods-with-charging-case-2nd-generation-review/daniel-korpai-_rybp9o-vtu-unsplash.jpg 'AirPods Battery')
 
@@ -63,4 +63,4 @@ What concerns me more is longevity. Given how frequently the AirPods undergo cha
 
 ## Conclusion
 
-I really like the AirPods. They're liberating. While not as magical as Apple is making them out to be, they do delivery in a way that really only Apple can. The sound quality is trash and they're expensive. But, I mean, if you're already reading this that means you clearly have money to burn, right? I'd say buy them.
+I really like the AirPods. They're liberating. While not as magical as Apple is making them out to be, they do deliver in a way that really only Apple can. The sound quality is trash and they're expensive. But, I mean, if you're already reading this that means you clearly have money to burn, right? I'd say buy them.
