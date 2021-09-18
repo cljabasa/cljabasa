@@ -3,7 +3,7 @@ title: Mi 23.8" Desktop Monitor 1C Review
 description: The Mi 23.8" Desktop Monitor 1C sports a clean aesthetic and costs Php. 6,990.00 but is it enough for someone who's so used to Retina displays?
 publishDate: 'Saturday, September 4 2021'
 author: 'Christian Jabasa'
-heroImage: https://res.cloudinary.com/kadto/image/upload/v1630745502/cljabasa/blog/20210904-mi-desktop-momitor-review/0355a7b225948ae6ccfd77bb6d8ffc28.jpg
+heroImage: https://res.cloudinary.com/kadto/image/upload/v1630746581/cljabasa/blog/20210904-mi-desktop-momitor-review/148968-2.jpg
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 
