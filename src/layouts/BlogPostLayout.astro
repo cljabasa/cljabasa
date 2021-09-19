@@ -10,6 +10,18 @@ const { content } = Astro.props;
 
     <title>{content.title} | Christian Jabasa's Blog</title>
 
+    <!-- General SEO -->
+    <meta name="application-name" content="Christian Jabasa">
+    <meta name="title" content={content.title}>
+    <meta name="description" content={content.description}>
+    <meta name="keywords" content="Christian,Jabasa,Software,Engineer,Developer">
+    <meta name="author" content="Christian Jabasa">
+
+    <!-- OpenGraph SEO -->
+    <meta property="og:title" content={`${content.title} | Christian Jabasa's Blog`} />
+    <meta property="og:description" content={content.description} />
+    <meta property="og:image" content={content.heroImage} />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <link rel="stylesheet" href="/style/global.css">
     <link rel="stylesheet" href="/style/blog-post.css">
