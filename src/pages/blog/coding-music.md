@@ -29,7 +29,7 @@ With these out of the way, here are a few albums I queue up when I'm coding.
 ## On Final Fantasy Soundtracks
 I grew up playing Final Fantasy on the Game Boy and I got really hooked. _Final Fantasy VI_, in particular, is a game which I have sunk more than 220-hours of playtime on. I consider it to be the best game I have every played. Yes, I got deeply emotionally invested in the characters and the wild roller-coaster ride of a story they were all part of.
 
-Thus, I will forever revere [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu) for the musical genius that he is for composing the soundtracks to much of Final Fantasy franchise's installments. His music is the imagination and creativity unbounded, writing masterpeices despite [limited technology](https://en.wikipedia.org/wiki/Chiptune). Uematsu essentially made [_The Creation of Adam_](https://en.wikipedia.org/wiki/The_Creation_of_Adam) with crayons. 
+Thus, I will forever revere [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu) for the musical genius that he is for composing the soundtracks to much of Final Fantasy franchise's installments. His music is the imagination and creativity unbounded, writing masterpeices despite [limited technology](https://en.wikipedia.org/wiki/Chiptune). Uematsu essentially made [The Creation of Adam](https://en.wikipedia.org/wiki/The_Creation_of_Adam) with crayons. 
 
 _Fantasian_, which I now play, is also made by [Hironobu Sakaguchi](https://en.wikipedia.org/wiki/Hironobu_Sakaguchi) and instantly took me those sweet times. 
 
