@@ -27,11 +27,13 @@ With these out of the way, here are a few albums I queue up when I'm coding.
 - Two Steps From Hell - [Miracles](https://music.apple.com/ph/album/miracles/883434836)
 
 ## On Final Fantasy Soundtracks
-I grew up playing Final Fantasy on the Game Boy and I got really hooked. _Final Fantasy VI_, in particular, is a game which I have sunk more than 220-hours of playtime. I consider it to be the best game I have every played. Yes, I got deeply emotionally invested in the characters and the wild roller-coaster ride of a story they were all part of.
+I grew up playing Final Fantasy on the Game Boy and I got really hooked. _Final Fantasy VI_, in particular, is a game which I have sunk more than 220-hours of playtime on. I consider it to be the best game I have every played. Yes, I got deeply emotionally invested in the characters and the wild roller-coaster ride of a story they were all part of.
 
-Thus, I will forever revere [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu) for the musical genius that he is for composing the soundtracks to much of Final Fantasy franchise's installments. His music is the imagination and creativity unbounded, writing masterpeices despite [limited technology](https://en.wikipedia.org/wiki/Chiptune). Uematsu essentially made [_The Creation of Adam_](https://en.wikipedia.org/wiki/The_Creation_of_Adam) with crayons. _Fantasian_, which also is made by [Hironobu Sakaguchi](https://en.wikipedia.org/wiki/Hironobu_Sakaguchi) and game which I now play, instantly took me those sweet times. Having these soundtracks on queue while working makes me feel like a hero on a quest to save the world from the clutches of evil. 
+Thus, I will forever revere [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu) for the musical genius that he is for composing the soundtracks to much of Final Fantasy franchise's installments. His music is the imagination and creativity unbounded, writing masterpeices despite [limited technology](https://en.wikipedia.org/wiki/Chiptune). Uematsu essentially made [_The Creation of Adam_](https://en.wikipedia.org/wiki/The_Creation_of_Adam) with crayons. 
 
-Fun fact: I was listening to the Final Fantasy V Original Soundtrack as I wrote this.
+_Fantasian_, also is made by [Hironobu Sakaguchi](https://en.wikipedia.org/wiki/Hironobu_Sakaguchi) which I now play, instantly took me those sweet times. 
+
+Having these soundtracks on queue while working makes me feel like a hero on a quest to save the world from the clutches of evil. Fun fact: I was listening to the Final Fantasy V Original Soundtrack as I wrote this.
 
 ## On Doom
 Confession: I haven't really played Doom. I've never been a fan of first-person shooter games. Oh, and I didn't really have capable computers or the money for triple-A gaming during these years. But what did happen during these years is I developed a taste for heavy music. The Doom Original Game Soundtrack is just that: heavy. It works for me despite its filthy guitar riffs and violent percussion. It also helps that I feel like the Doomslayer slaughtering demons.
