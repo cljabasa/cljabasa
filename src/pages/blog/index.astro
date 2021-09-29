@@ -22,8 +22,8 @@ const blogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date
         {blogPosts.map(blogPost => (
           <a href={blogPost.url}>
             <div>
-              <div class="mb-6">
-                <img src={blogPost.heroImage} alt="" class="rounded-md shadow-md">
+              <div class="aspect-w-16 aspect-h-10 mb-6">
+                <img src={blogPost.heroImage} alt="" class="object-cover rounded-md shadow-md">
               </div>
 
               <div class="mb-3">

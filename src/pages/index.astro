@@ -32,8 +32,8 @@ const blogPosts = blogPostsRaw
             blogPosts.map((blogPost) => (
               <a href={blogPost.url}>
                 <div class="flex flex-col">
-                  <div class="mb-6">
-                    <img src={blogPost.heroImage} alt="" class="rounded-md shadow-md">
+                  <div class="aspect-w-16 aspect-h-10 mb-6">
+                    <img src={blogPost.heroImage} alt="" class="object-cover rounded-md shadow-md">
                   </div>
 
                   <div class="flex flex-col space-y-4">

@@ -17,11 +17,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <div class="flex flex-row justify-center mb-8">
       <div class="w-full lg:w-8/12 flex flex-col">
-        <img
-          src="https://res.cloudinary.com/kadto/image/upload/v1620737060/cljabasa/uses/julian-steenbergen-eSr6s_8OOs4-unsplash.jpg"
-          alt="A MacBook with AirPods on top and an iPhone to its left"
-          class="rounded-md shadow-md"
-        />
+        <div class="aspect-w-16 aspect-h-10">
+          <img
+            src="https://res.cloudinary.com/kadto/image/upload/v1620737060/cljabasa/uses/julian-steenbergen-eSr6s_8OOs4-unsplash.jpg"
+            alt="A MacBook with AirPods on top and an iPhone to its left"
+            class="object-cover rounded-md shadow-md"
+          />
+        </div>
       </div>
     </div>
 
