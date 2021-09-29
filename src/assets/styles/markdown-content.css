@@ -27,7 +27,7 @@
 }
 
 .markdown-content-container a {
-  @apply text-blue-600;
+  @apply text-blue-600 dark:text-blue-300;
 }
 
 .markdown-content-container ul {

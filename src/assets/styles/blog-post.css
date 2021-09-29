@@ -39,7 +39,7 @@
 }
 
 .blog-post-container-col a {
-  @apply text-blue-600;
+  @apply text-blue-600 dark:text-blue-300;
 }
 
 .blog-post-container-col ul {
