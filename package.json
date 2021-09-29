@@ -9,7 +9,7 @@
   "devDependencies": {
     "@astrojs/renderer-preact": "^0.2.2",
     "astro": "^0.19.4",
-    "tailwindcss": "^2.2.15"
+    "tailwindcss": "^2.2.16"
   },
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.2.1",
