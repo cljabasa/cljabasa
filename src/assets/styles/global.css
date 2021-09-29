@@ -17,3 +17,7 @@
 .hero-subtitle {
   @apply text-lg md:text-lg lg:text-xl xl:text-xl 2xl:text-xl;
 }
+
+.footer-container {
+  @apply bg-gray-900 dark:bg-black flex flex-col;
+}
