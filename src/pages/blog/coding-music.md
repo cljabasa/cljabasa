@@ -31,7 +31,7 @@ I grew up playing Final Fantasy on the Game Boy and I got really hooked. _Final 
 
 Thus, I will forever revere [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu) for the musical genius that he is for composing the soundtracks to much of Final Fantasy franchise's installments. His music is the imagination and creativity unbounded, writing masterpeices despite [limited technology](https://en.wikipedia.org/wiki/Chiptune). Uematsu essentially made [_The Creation of Adam_](https://en.wikipedia.org/wiki/The_Creation_of_Adam) with crayons. 
 
-_Fantasian_, also is made by [Hironobu Sakaguchi](https://en.wikipedia.org/wiki/Hironobu_Sakaguchi) which I now play, instantly took me those sweet times. 
+_Fantasian_, which I now play, is also made by [Hironobu Sakaguchi](https://en.wikipedia.org/wiki/Hironobu_Sakaguchi) and instantly took me those sweet times. 
 
 Having these soundtracks on queue while working makes me feel like a hero on a quest to save the world from the clutches of evil. Fun fact: I was listening to the Final Fantasy V Original Soundtrack as I wrote this.
 
