@@ -7,7 +7,6 @@
     "build": "astro build"
   },
   "devDependencies": {
-    "@astrojs/renderer-preact": "^0.2.2",
     "astro": "^0.20.8",
     "tailwindcss": "^2.2.16"
   },
