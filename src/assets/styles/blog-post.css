@@ -43,7 +43,7 @@
 }
 
 .blog-post-container-col ul {
-  @apply list-disc pl-6;
+  @apply list-disc pl-6 mb-6;
 }
 
 .blog-post-container-col ul li {
@@ -51,7 +51,7 @@
 }
 
 .blog-post-container-col ol {
-  @apply list-decimal pl-6;
+  @apply list-decimal pl-6 mb-6;
 }
 
 .blog-post-container-col ol li {
