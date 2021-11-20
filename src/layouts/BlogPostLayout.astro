@@ -1,14 +1,15 @@
 ---
 import AppBar from '../components/AppBar.astro';
 
-const { content } = Astro.props;
+const { content, ...rest } = Astro.props;
+console.log({ content, rest })
 ---
 <html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{content.title} | Christian Jabasa's Blog</title>
+    <!-- <title>{content.title} | Christian Jabasa's Blog</title> -->
 
     <!-- General SEO -->
     <meta name="application-name" content="Christian Jabasa">
@@ -70,7 +71,7 @@ const { content } = Astro.props;
     <div class="footer-container">
       <div class="flex flex-row justify-center py-4">
         <h5 class="text-white text-sm font-medium">
-          {'Made with <3 in Bacolod City, PH'}
+          <!-- {'Made with <3 in Bacolod City, PH'} -->
         </h5>
       </div>
     </div>
