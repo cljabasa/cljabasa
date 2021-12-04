@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+a {
+  @apply text-blue-600 dark:text-blue-300;
+}
+
+a:hover {
+  @apply text-blue-500 dark:text-blue-200;
+}
+
 .hero-container-row {
   @apply flex flex-row py-8;
 }

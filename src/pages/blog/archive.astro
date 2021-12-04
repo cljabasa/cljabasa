@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const blogPostsRaw = Astro.fetchContent('./*.md');
+const blogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+---
+<BaseLayout
+  title="Blog Arhives &#124; Christian Jabasa"
+  image="https://res.cloudinary.com/kadto/image/upload/v1621041884/cljabasa/blog/green-chameleon-s9CC2SKySJM-unsplash_thumb.jpg"
+>
+  <div class="flex flex-col pb-16">
+    <div class="hero-container-row px-6 mb-6">
+      <div class="hero-container">
+        <h1 class="hero-title">Blog Arhives</h1>
+
+        <h4 class="hero-subtitle">It ain't much but it's honest work.</h4>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center">
+      <div class="w-full lg:w-7/12 flex flex-col">
+        <ul class="list-disc pl-4 space-y-1">
+          {blogPosts.map(blogPost => (
+            <li><a href={blogPost.url}>{blogPost.title}</a></li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
