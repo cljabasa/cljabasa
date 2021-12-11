@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: [
-        'Inconsolata',
+        'Karla',
         '-apple-system',
         'BlinkMacSystemFont',
         'Segoe UI',
@@ -17,7 +17,7 @@ module.exports = {
         'Segoe UI Emoji',
         'Segoe UI Symbol',
       ],
-      mono: ['Inconsolata', 'Menlo', 'Consolas', 'monospaced'],
+      mono: ['Menlo', 'Consolas', 'monospaced'],
     },
   },
   plugins: [
