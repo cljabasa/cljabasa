@@ -8,7 +8,7 @@ const blogPosts = blogPostsRaw
   .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 
 const heroBlogPost = blogPosts[0];
-const slicedBlogPosts = blogPosts.slice(1, blogPosts.length - 1);
+const slicedBlogPosts = blogPosts.slice(1, blogPosts.length);
 ---
 <BaseLayout
   title="Christian Jabasa's Blog"
