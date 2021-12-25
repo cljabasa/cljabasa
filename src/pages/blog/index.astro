@@ -1,9 +1,14 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import BlogHero from '../../components/blog/Hero.astro';
+import BlogPost from '../../components/blog/Post.astro';
 
 const blogPostsRaw = Astro.fetchContent('./*.md');
-const blogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+const blogPosts = blogPostsRaw
+  .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+
+const heroBlogPost = blogPosts[0];
+const slicedBlogPosts = blogPosts.slice(1, blogPosts.length - 1);
 ---
 <BaseLayout
   title="Christian Jabasa's Blog"
@@ -20,10 +25,16 @@ const blogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date
 
     <div class="flex flex-row justify-center">
       <div class="w-full lg:w-7/12 flex flex-col space-y-16 px-6">
-        {blogPosts.map(blogPost => (
-          <BlogHero blogPost={blogPost} />
+        <div class="flex flex-col mb-6">
+          <BlogHero blogPost={heroBlogPost} />
+        </div>
+
+        {slicedBlogPosts.map(blogPost => (
+          <BlogPost blogPost={blogPost} />
         ))}
       </div>
     </div>
+
+    <div class="h-16" />
   </div>
 </BaseLayout>

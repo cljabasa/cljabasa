@@ -1,0 +1,51 @@
+---
+const { blogPost } = Astro.props;
+const { url, heroImage: postImage, title, author, publishDate, description } = blogPost;
+
+console.log(blogPost);
+---
+
+<style>
+.inner-container {
+  grid-template-columns: 4fr 8fr;
+  @apply grid gap-8;
+}
+
+.post-image-container {
+  @apply aspect-w-16 aspect-h-10 mb-6;
+}
+
+.content-container {
+  /* @apply md:px-8; */
+}
+</style>
+
+<a href={url}>
+  <div class="inner-container">
+    <div>
+      <div class="post-image-container">
+        <img src={postImage} alt="" class="object-cover rounded-md shadow-md">
+      </div>
+    </div>
+
+    <div class="content-container">
+      <div class="mb-3">
+        <h2 class="text-black dark:text-white text-2xl lg:text-3xl font-bold mb-2">
+          {title}
+        </h2>
+
+        <div class="flex flex-row space-x-8 items-baseline">
+          <h5 class="text-black dark:text-white text-base font-medium">
+            {author}
+          </h5>
+
+          <h6 class="text-black dark:text-white text-sm font-normal">
+            {publishDate}
+          </h6>
+        </div>
+      </div>
+
+      <h5 class="text-black dark:text-white text-sm md:text-base">{description}</h5>
+    </div>
+  </div>
+</a>
