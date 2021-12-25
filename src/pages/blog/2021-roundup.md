@@ -9,6 +9,8 @@ layout: '../../layouts/BlogPostLayout.astro'
 
 I’d like to share the albums, songs, podcasts, movies, books, and more that helped me get through 2021. Some of my picks may not have been released this year.
 
+_See: [2020 Roundup](/blog/2020-roundup)_
+
 ## Albums
 * Nobuo Uematsu - [Nobuo Uematsu × Hironobu Sakaguchi Works - Music from FANTASIAN (Original Game Soundtrack)](https://music.apple.com/ph/album/%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB-%E5%9D%82%E5%8F%A3%E5%8D%9A%E4%BF%A1-%E4%BD%9C%E5%93%81%E9%9B%86-music-from-fantasian-%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB-%E3%82%B2%E3%83%BC%E3%83%A0-%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF/1576490134)
 * Christopher Larkin - [Hollow Knight (Original Soundtrack)](https://music.apple.com/ph/album/everybody-wants-to-rule-the-world/1440813508?i=1440813515)
