@@ -1,9 +1,5 @@
 ---
-import { format } from 'date-fns';
-import BaseLayout from '../layouts/BaseLayout.astro';
-
-const response = await fetch('http://worldtimeapi.org/api/timezone/Asia/Manila');
-const data = await response.json();
+import BaseLayout from '../../layouts/BaseLayout.astro';
 ---
 <BaseLayout title="COVID-19 Vaccination &#124; Christian Jabasa">
   <div class="flex flex-col pb-16">
@@ -18,8 +14,7 @@ const data = await response.json();
     <div class="flex flex-row px-6">
       <div class="vaccination-hero-container-row">
         <div class="flex flex-col text-center leading-tight">
-          <h1 class="vaccination-hero-title">2/2</h1>
-          <h3 class="vaccination-hero-subtitle">Sinovac</h3>
+          <h1 class="vaccination-hero-title">3/3</h1>
         </div>
       </div>
     </div>
@@ -33,14 +28,30 @@ const data = await response.json();
         <ul class="list-disc space-y-4 pl-4">
           <li>
             <div class="flex flex-col">
-              <h3 class="text-xl">13 August, 2021 (12:52 PM)</h3>
+              <h3 class="text-xl"><span class="vaccine-brand-span">Sinovac</span>
+                - 13 August, 2021 (12:52 PM)
+              </h3>
               <h5 class="text-gray-500 text-sm font-semibold">1st Shot</h5>
             </div>
           </li>
+
           <li>
             <div class="flex flex-col">
-              <h3 class="text-xl">10 September, 2021 (11:03 AM)</h3>
+              <h3 class="text-xl">
+                <span class="vaccine-brand-span">Sinovac</span>
+                - 10 September, 2021 (11:03 AM)
+              </h3>
               <h5 class="text-gray-500 text-sm font-semibold">2nd Shot</h5>
+            </div>
+          </li>
+
+          <li>
+            <div class="flex flex-col">
+              <h3 class="text-xl">
+                <span class="vaccine-brand-span">AstraZeneca</span>
+                - 14 January, 2022 (11:14 AM)
+              </h3>
+              <h5 class="text-gray-500 text-sm font-semibold">Booster</h5>
             </div>
           </li>
         </ul>
@@ -60,8 +71,7 @@ const data = await response.json();
   @apply text-white font-black;
 }
 
-.vaccination-hero-subtitle {
-  @apply text-xl text-white font-black;
+.vaccine-brand-span {
+  @apply font-bold;
 }
-
 </style>
