@@ -1,4 +1,6 @@
 ---
+import { format } from 'date-fns';
+
 import { Markdown } from 'astro/components';
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
@@ -15,7 +17,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </div>
     </div>
 
-    <div class="flex flex-row justify-center mb-8">
+    <div class="flex flex-row justify-center mb-12">
       <div class="w-full lg:w-8/12 flex flex-col">
         <div class="aspect-w-16 aspect-h-10">
           <img
@@ -24,6 +26,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             class="object-cover rounded-md shadow-md"
           />
         </div>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center px-6 mb-8">
+      <div class="w-full lg:w-7/12 flex flex-col">
+        <h5 class="text-sm">Updated { format(new Date(), 'MMMM d, yyyy') }</h5>
       </div>
     </div>
 
@@ -75,7 +83,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           # Services and Subscriptions
 
           - [1Password](https://1password.com) - The best damn password manager on the planet.
-          - [Apple One (Family)](https://www.apple.com/ph/apple-one/) - Paying primarily for Apple Music. I figured I'd pull the trigger on Apple One since I play Fantasian and watch Ted Lasso on Arcade and TV+ respectively.
+          - [Apple Music (Family)](https://www.apple.com/ph/apple-music/) - Music streaming service of choice. I really like how it lets me upload and sync music from elsewhere.
           - [Netflix](https://netflix.com) - You already know what this is.
 
           # Gear
@@ -92,9 +100,25 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           ### Peripherals
           - [Mi 23.8" Desktop Monitor 1C](https://www.mi.com/global/mi-23.8-desktop-monitor-1c/) - 1080p external display.
           - [Liebert Vertiv PSA650-SOHO](https://www.vertiv.com/en-asia/products-catalog/critical-power/uninterruptible-power-supplies-ups/psa650-soho/) - 390-watt UPS for the Mac Mini. Overkill for the power-sipping computer and monitor plugged into it.
-          - [Logitech K380 Multi-Device Bluetooth Keyboard](https://www.logitech.com/en-ph/products/keyboards/k380-multi-device.920-007597.html) - Decent budget bluetooth keyboard.
+          - [Royal Kludge RK84 Mechanical Keybord](https://gameone.ph/rk-royal-kludge-rk84-tri-mode-rgb-84-keys-hot-swappable-mechanical-keyboard-black-brown.html) - My first mechincal keyboard. It has Bluetooth but I just use it in wired mode with the Mac Mini. Typing feels super great on its brown switches.
           - [Logitech MX Anywhere 2S Bluetooth Mouse](https://shopee.ph/Logitech-MX-Anywhere-2S-Wireless-Mobile-Mouse-(Graphite)-(ONLINE-EXCLUSIVE)-i.55502962.1568650454) - Last-gen flagship travel mouse from Logitech.
           - [8BitDo SN30 Pro+](https://www.8bitdo.com/sn30-pro-plus/) - For playing Hollow Knight, Stardew Valley, and Fantasian.
+
+          # Coffee
+
+          I try to keep my setup lean in case the world stops ending and I end up being away from home again.
+
+          ## Gear
+
+          - [Omega Copen Stainless Steel French Press (350ml)](https://omegahouseware.com.ph/products/copen-stainless-steel-french-press-with-filter-350ml-600ml) - A replacement for the 800ml Hosh French Press I had clumsily broken.
+          - [Hario V60 Drip Decanter](https://www.hario.com.ph/product-page/hario-v60-drip-decanter-pour-over-coffee-set) - My first foray into drip brewing. I use this more than the French Press nowadays. Procured on January 2022.
+          - An electric kettle made by 3D. It's fine for both brewing methods, to be honest. I do plan on buying a gooseneck kettle soon.
+
+          ## Beans
+
+          I'v been buying pre-ground coffee from the supermarket and online for the last 18 months. It's [Silafe's House Blend](https://www.silcacoffee.com/portfolio-items/silcafe-house-blend/?portfolioCats=56) for the former and [Bo's Coffee's Atok, Benguet](https://www.boscoffee.com/products/atok-benguet) for the latter. I'm still figuring out what I like even after 18 months. Both are medium roast but have different flavor profiles. Yes, I'm trying to sound smart here.
+
+          I'll definitely start buying whole beans once I get my hands on a grinder. I'm currently eyeing the [Hario Mini Mill Slim+](https://www.hario.com.ph/product-page/hario-ceramic-coffee-grinder-mini-slim-plus) since I'm too broke for a good electric burr grinder.
         </Markdown>
       </div>
     </div>

@@ -4,6 +4,7 @@ description: "I'd like to share the best albums, songs, podcasts, books, TV show
 publishDate: 'Sunday, December 26 2021'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1640420573/cljabasa/blog/20211226-2021-roundup/ibrahim-boran-EP5m7d5neWA-unsplash_optimized.jpg'
+published: true
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 

@@ -4,6 +4,7 @@ description: "White I do demand silence when I need to get into the nitty-gritty
 publishDate: 'Saturday, August 7 2021'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1627899179/cljabasa/blog/20210807-coding-music/vladimir-kondriianenko-mpnA-Cgrzv8-unsplash.jpg'
+published: true
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 

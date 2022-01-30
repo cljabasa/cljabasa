@@ -4,6 +4,7 @@ description: "I did tease this in my review of the iPhone 6S Plus. It's roughly 
 publishDate: 'Monday, June 7 2021'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1622339281/cljabasa/blog/iphone-xr-review/quinton-coetzee-bZROblPGA60-unsplash.jpg'
+published: true
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 

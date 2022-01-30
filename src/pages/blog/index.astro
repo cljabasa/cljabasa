@@ -5,7 +5,8 @@ import BlogPost from '../../components/blog/Post.astro';
 
 const blogPostsRaw = Astro.fetchContent('./*.md');
 const blogPosts = blogPostsRaw
-  .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
+  .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate))
+  .filter((post) => post.published);
 
 const heroBlogPost = blogPosts[0];
 const slicedBlogPosts = blogPosts.slice(1, blogPosts.length);

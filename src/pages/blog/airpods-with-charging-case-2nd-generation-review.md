@@ -4,6 +4,7 @@ description: "I don’t plan to buy AirPods,” was what I said in The iPhone Jo
 publishDate: 'Sunday, March 7 2021'
 author: 'Christian Jabasa'
 heroImage: https://res.cloudinary.com/kadto/image/upload/v1615380733/cljabasa/blog/20200307-airpods-with-charging-case-2nd-generation-review/suganth-l2mirnegwoa-unsplash.jpg
+published: true
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 

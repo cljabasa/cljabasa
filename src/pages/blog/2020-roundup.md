@@ -4,6 +4,7 @@ description: "I'd like to share the best albums, songs, podcasts, books, TV show
 publishDate: 'Wednesday, January 6 2021'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1611467782/cljabasa/blog/20210106-2020-roundup/kelly-sikkema-CjdsgW4cVSU-unsplash.jpg'
+published: true
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 

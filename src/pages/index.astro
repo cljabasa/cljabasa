@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const blogPostsRaw = Astro.fetchContent('./blog/*.md');
 const blogPosts = blogPostsRaw
   .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate))
+  .filter((post) => post.published)
   .slice(0, 3);
 ---
 <BaseLayout title="Christian Jabasa">

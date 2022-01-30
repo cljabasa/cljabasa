@@ -4,6 +4,7 @@ description: "Wanting to find out if the grass was truly greener on the other si
 publishDate: 'Sunday, January 17 2021'
 author: 'Christian Jabasa'
 heroImage: https://res.cloudinary.com/kadto/image/upload/v1611150097/cljabasa/blog/the-iphone-journey/drew-hays-z0WDn0Mas9o-unsplash.jpg
+published: true
 layout: '../../layouts/BlogPostLayout.astro'
 ---
 
