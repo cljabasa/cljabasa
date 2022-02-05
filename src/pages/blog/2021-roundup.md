@@ -36,17 +36,17 @@ _See: [2020 Roundup](/blog/2020-roundup)_
 ## TV
 * [The Year Earth Changed](https://tv.apple.com/ph/movie/the-year-earth-changed/umc.cmc.3fob3t7nfhehpb3ilgynzxmnu)
 * [Breaking Boundaries](https://www.netflix.com/title/81336476)
-* [Castlevania](https://www.netflix.com/title/80095241) - Season 4
+* [Castlevania](https://www.netflix.com/title/80095241) [Season 4]
 * [Avatar: The Last Airbender](https://www.netflix.com/title/70142405)
 * [Foundation](https://tv.apple.com/us/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3)
-* [Mythic Quest](https://tv.apple.com/us/show/mythic-quest/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3) - Season 2
-* [Ted Lasso](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) - Season 2
+* [Mythic Quest](https://tv.apple.com/us/show/mythic-quest/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3) [Season 2]
+* [Ted Lasso](https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy) [Season 2]
 
 ## Anime
 * Fruits Basket (2019)
 * Adobe Asobase
 * Komi Can't Communicate
-* Miss Kobayashi's Dragon Maid - Season 2
+* Miss Kobayashi's Dragon Maid [Season 2]
 * My Senpai is Annoying
 * The Case Study of Vanitas
 
