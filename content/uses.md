@@ -81,7 +81,7 @@ I try to keep my setup lean in case the world stops ending and I end up being aw
 
 ## Beans
 
-Purchased 250-grams of Sagada coffee beans for Php. 150.00 from [Keidra's Cafe](https://goo.gl/maps/uQ99ddwj9BPM8YeS9). I have no idea when the coffee beans were roasted but they don't taste stale. In fact, the coffee looks scrumptiously red in the deacanter. It has hints of sweetness. I plan on buying from Bacolod-based [Coffee Culture](https://www.facebook.com/coffeecultureroastery/) once I'm done with the former.
+Purchased 250-grams of Sagada coffee beans for Php. 150.00 from [Keidra's Cafe](https://goo.gl/maps/uQ99ddwj9BPM8YeS9). I have no idea when the coffee beans were roasted but they don't taste stale. In fact, the coffee looks scrumptiously red in the deacanter. It has hints of sweetness.
 
 ![Sagada Coffee Beans - Keidra's Cafe](https://res.cloudinary.com/kadto/image/upload/v1644500589/cljabasa/uses/d9068e1185cd1b61d6b9c0b6e3b88fbe.jpg)
 
