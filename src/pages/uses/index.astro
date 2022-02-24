@@ -1,0 +1,47 @@
+---
+import { format } from 'date-fns';
+
+import { Markdown } from 'astro/components';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const contentArray = Astro.fetchContent('../../../content/uses.md');
+const content = contentArray.find(contentItem => contentItem.file.pathname.includes('uses.md'));
+---
+<BaseLayout
+  title="Uses &#124; Christian Jabasa"
+  image="https://res.cloudinary.com/kadto/image/upload/v1620737059/cljabasa/uses/julian-steenbergen-eSr6s_8OOs4-unsplash_thumbnail.jpg"
+>
+  <div class="flex flex-col pb-16">
+    <div class="hero-container-row px-6 mb-4">
+      <div class="hero-container">
+        <h1 class="hero-title">Uses</h1>
+
+        <h4 class="hero-subtitle">The apps. The gear. The services.</h4>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center mb-12">
+      <div class="w-full lg:w-8/12 flex flex-col">
+        <div class="aspect-w-16 aspect-h-10">
+          <img
+            src="https://res.cloudinary.com/kadto/image/upload/v1643708834/cljabasa/uses/charles-patterson-O2ZD0JhVD5g-unsplash.jpg"
+            alt="A Mac Mini behind a screen"
+            class="object-cover md:rounded-md shadow-md"
+          />
+        </div>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center px-6 mb-8">
+      <div class="w-full lg:w-7/12 flex flex-col">
+        <h5 class="text-sm">Updated { format(new Date(2022, 1, 11), 'MMMM d, yyyy') }</h5>
+      </div>
+    </div>
+
+    <div class="flex flex-row justify-center px-6 mb-8">
+      <div class="markdown-content-container w-full lg:w-7/12 flex flex-col">
+        <Markdown content={content.content.source} />
+      </div>
+    </div>
+  </div>
+</BaseLayout>
