@@ -12,7 +12,7 @@ My tongue only notices sweetness and roast levels for now. I'm still learning to
 
 ### February 24, 2022
 
-Purchased 250-grams of Sagada coffee beans for Php. 155.00 from [Little Farmers Coffee](https://www.facebook.com/Littlefarmerscoffee). Like my last purchase, I have no idea when these coffee beans were roasted but they don't taste stale. It's a darker roast compared the Sagada coffee beans. In fact, the coffee looks scrumptiously red in the deacanter. It has hints of sweetness.
+Purchased 250-grams of Sagada coffee beans for Php. 155.00 from [Little Farmers Coffee](https://www.facebook.com/Littlefarmerscoffee). Like my last purchase, I have no idea when these coffee beans were roasted. It's a darker roast compared the Sagada coffee beans. Feedback soon.
 
 ![Kanla-on Coffee Beans - Little Farmers Coffee](https://res.cloudinary.com/kadto/image/upload/v1645610444/cljabasa/uses/IMG_1737_optimized.jpg)
 
