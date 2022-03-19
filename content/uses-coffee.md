@@ -10,6 +10,15 @@
 
 My tongue only notices sweetness and roast levels for now. I'm still learning to taste so I can only say if I like it or not. I can't yet tell if coffee is earthy, or citrusy, or if it has chocolate notes.
 
+### March 17, 2022
+Purchased 200-grams of [The Dream Coffee coffee beans](https://thedreamcoffee.ph/products/wholebeans) for Php. 395.00 from, well, [The Dream Coffee](https://thedreamcoffee.ph/). I placed an order on the 10th of March and got it on the 17th. I'm glad to report that the coffee beans have a roast date: 8th of March 2022. Not bad. Bought because of the pretty packaging and I was sold on [the story](https://thedreamcoffee.ph/blogs/learn/learn-the-dream). Feedback soon.
+
+![The Dream Coffee coffee beans - The Dream Coffee](https://res.cloudinary.com/kadto/image/upload/v1647686538/cljabasa/uses/IMG_1771_optimized.jpg)
+
+### March 12, 2022
+
+Purchased 250-grams of [Cadiz Blend](https://www.instagram.com/p/CZ5xzdJPELF/) coffee grounds for a price I don't remember from [Little Farmers Coffee](https://www.facebook.com/Littlefarmerscoffee). I had it ground at the store. Feedback soon.
+
 ### February 24, 2022
 
 Purchased 250-grams of Kanlaon coffee beans for Php. 155.00 from [Little Farmers Coffee](https://www.facebook.com/Littlefarmerscoffee). Like my last purchase, I have no idea when these coffee beans were roasted. It's a darker roast compared the Sagada coffee beans. Feedback soon.
