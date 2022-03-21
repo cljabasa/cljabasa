@@ -13,6 +13,8 @@ My tongue only notices sweetness and roast levels for now. I'm still learning to
 ### March 17, 2022
 Purchased 200-grams of [The Dream Coffee coffee beans](https://thedreamcoffee.ph/products/wholebeans) for Php. 395.00 from, well, [The Dream Coffee](https://thedreamcoffee.ph/). I placed an order on the 10th of March and got it on the 17th. I'm glad to report that the coffee beans have a roast date: 8th of March 2022. Not bad. Bought because of the pretty packaging and I was sold on [the story](https://thedreamcoffee.ph/blogs/learn/learn-the-dream). Feedback soon.
 
+Update 2022/03/21: It has sweet, funky-fermented-fruit flavors.
+
 ![The Dream Coffee coffee beans - The Dream Coffee](https://res.cloudinary.com/kadto/image/upload/v1647686538/cljabasa/uses/IMG_1771_optimized.jpg)
 
 ### March 12, 2022
