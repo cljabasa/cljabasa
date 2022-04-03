@@ -3,10 +3,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import BlogHero from '../../components/blog/Hero.astro';
 import BlogPost from '../../components/blog/Post.astro';
 
-const blogPostsRaw = Astro.fetchContent('./*.md');
+const blogPostsRaw = await Astro.glob('./*.md');
 const blogPosts = blogPostsRaw
-  .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate))
-  .filter((post) => post.published);
+  // .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate))
+  .filter((post) => post.frontmatter.published);
 
 const heroBlogPost = blogPosts[0];
 const slicedBlogPosts = blogPosts.slice(1, blogPosts.length);

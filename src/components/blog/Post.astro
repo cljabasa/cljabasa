@@ -1,6 +1,8 @@
 ---
 const { blogPost } = Astro.props;
-const { url, heroImage: postImage, title, author, publishDate, description } = blogPost;
+
+const { url } = blogPost;
+const { heroImage: postImage, title, author, publishDate, description } = blogPost.frontmatter;
 ---
 
 <style>

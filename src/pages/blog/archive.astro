@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
-const blogPostsRaw = Astro.fetchContent('./*.md');
+const blogPostsRaw = await Astro.glob('./*.md');
 const blogPosts = blogPostsRaw.sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate));
 ---
 <BaseLayout

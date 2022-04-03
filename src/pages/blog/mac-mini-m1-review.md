@@ -10,15 +10,15 @@ layout: '../../layouts/BlogPostLayout.astro'
 
 # Mac Mini (M1, Late 2020) Review
 
-I know, I just got a MacBook Air in 2020. I don't usually sweat the timing of when I make major purchases, but this one was particularly awful. The 2015 MacBook Air that I had been previously had issues with charging and I needed a computer immediately. It was months after the transition to Apple Silicon was announcement and months before Apple came out with refreshed hardware. Still, I went out and bought an Air with the decrepit Core i3 just so I could have something to use.
+I know, I just got a MacBook Air in 2020. I don't usually sweat the timing of when I make major purchases, but the Air was particularly awful. The 2015 MacBook Air that  carried me throught college and the one that I had been previously started developing issues with charging and I needed a computer immediately. It was months after the transition to Apple Silicon was announcement and months before the refreshed hardware came out. Still, I went out and bought an Air with the decrepit Core i3 just so I could have something to use.
 
-I had looked up several reviews about the Early 2020 MacBook Air so I knew what I was getting myself into. At least, I thought I knew what I was getting into. While its raw CPU performance is way better than my 2015 Air, a few months into using the laptop I just found myself thoroughly frustrated by the performance due in large part to its abysmal thermals. This computer really is a dumpster fire thanks to Intel's infernal 10th-generation Core i3 and Apple's horrendous cooling solution. Can you even call it a cooling solution when there aren't any heat pipes connecting the CPU's aluminum block to the fan? WTF.
+I had looked up several reviews about the Early 2020 MacBook Air so I knew what I was getting myself into. At least, I thought I knew what I was getting into. While its raw CPU performance is way better than my 2015 Air, a few months into using the laptop I just found myself thoroughly frustrated by the performance due in large part to its abysmal thermals. This computer really is a dumpster fire thanks to Intel's infernal 10th-generation Core i3 and Apple's horrendous cooling solution. Can you even call it a cooling solution when there aren't any heat pipes connecting the CPU's aluminum block to the fan?
 
-Now, it's been a year into Apple's two-year transition
+With the great silicon trasition near its completion, 
 
 # Rationale
 
-I wanted something that wouldn't explode from too much code compilation. That's it. I originally intended to buy an M1 MacBook Air, but I was short on dough, and frankly out of patience with the Core i3 Air. I pulled the trigger and got an M1 Mac Mini. I could've saved for another month to buy an M1 Air but given the shopping rush that is the holidays, it was the either getting a Mini now or the dread of having the money later to buy a computer that won't be in-stock. I already have the peripherals for it anyway, I thought. The ongoing global supply woes certainly didn't help and like won't. Looking for a PS5? Yeah, I feel you.
+I wanted something that wouldn't explode from the amount of code compilation that I do. That's it. I originally intended to buy an M1 MacBook Air, but I was short on dough, and frankly out of patience with the Core i3 Air. I pulled the trigger and got an M1 Mac Mini. I could've saved for another month to buy an M1 Air but given the shopping rush that is the holidays, it was the either getting a Mini now or the dread of having the money later to buy a computer that won't be in-stock. I already have the peripherals for it anyway, I thought. The ongoing global supply woes certainly didn't help and likely won't. Looking for a PS5? Yeah, I feel you.
 
 # M1 Primer
 
@@ -31,6 +31,8 @@ Intel and AMD CPUs, on the other hand, are running on an instruction set called 
 Last year Apple announced that it would ship the first Mac hardware running its in-house silicon, officially starting the two-year transition. This isn't the first time the Mac underwent a transition like this when Apple made the switch from PowerPC to Intel nearly two decades back for most of the same reasons. PowerPC just didn't have the performance and efficiency that Intel had. Enter the late-2010s and Intel sat unchallenged for years and stagnated. AMD rose from the ashes and struck back hard with their Ryzen chips, sweeping Intel off of their feet. The last year five years have been miserable for Intel, and by extension, Mac users. Apple's stubbornness in not equipping their computers with decent coolers and Intel's desperate attempts to squeeze ever more out of their 14-nanometer process resulted in computers that were furnaces. Even laptops from Dell and other PC OEMs weren't spared from Intel's infernally hot chips. Only now after a long beatdown from AMD and a recent breakup with Apple has Intel regained a bit of foothold with Alder Lake. Consumers, rejoice.
 
 This integration between what are usually separate components is how the M1 is able to deliver incredible performance and power efficiency. The M1 is also manufactured on TSMC's 5-nanometer process which further contributes to its very low power draw.
+
+The M1 is a fascinating 
 
 # Performance
 
