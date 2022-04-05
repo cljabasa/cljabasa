@@ -1,0 +1,94 @@
+---
+import AppBar from '@components/AppBar.astro';
+import '@assets/styles/global.css';
+import '@assets/styles/markdown-feature-page.css';
+
+const { content } = Astro.props;
+const openGraphTitle = `${content.title} | Christian Jabasa`;
+---
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{content.title} | Christian Jabasa</title>
+
+    <!-- General SEO -->
+    <meta name="application-name" content="Christian Jabasa">
+    <meta name="title" content={content.title}>
+    <meta name="description" content={content.description}>
+    <meta name="keywords" content="Christian,Jabasa,Software,Engineer,Developer">
+    <meta name="author" content="Christian Jabasa">
+
+    <!-- OpenGraph SEO -->
+    <meta property="og:title" content={openGraphTitle} />
+    <meta property="og:description" content={content.description} />
+    <meta property="og:image" content={content.heroImage} />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  </head>
+
+  <body class="dark:bg-black dark:text-white">
+    <header>
+      <div class="container mx-auto">
+        <AppBar />
+      </div>
+    </header>
+
+    <main class="container mx-auto slot-container pt-6">
+      <div class="flex flex-row justify-center px-6 mb-8">
+        <div class="w-full lg:w-10/12 flex flex-col space-y-1">
+          <h1 class="text-4xl lg:text-5xl font-black">{content.title}</h1>
+
+          <h2 class="text-lg lg:text-xl font-black font-normal">{content.description}</h2>
+        </div>
+      </div>
+
+      <div class="flex flex-row justify-center px-6">
+        <div class="w-full lg:w-10/12 flex flex-col mb-8">
+          <div class="aspect-w-16 aspect-h-10">
+            <img src={content.heroImage} class="object-cover rounded-md shadow-md" />
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-row justify-center px-6 my-6">
+        <div class="w-full lg:w-7/12 flex flex-col">
+          <h5 class="text-sm">
+            Date Updated: <span class="font-bold">{content.updatedDate}</span>
+          </h5>
+        </div>
+      </div>
+
+      <div class="flex flex-row justify-center px-6">
+        <div class="markdown-feature-page-container-col">
+          <slot />
+        </div>
+      </div>
+    </main>
+
+    <div class="h-16" />
+
+    <div class="footer-container">
+      <div class="flex flex-row justify-center py-4">
+        <h5 class="text-white text-sm font-medium">
+          Made with ❤️ in Bacolod City, PH
+        </h5>
+      </div>
+    </div>
+  </body>
+</html>
+
+<style>
+  .slot-container {
+    min-height: calc(100vh - 64px);
+    @apply pb-16;
+  }
+
+  .markdown-feature-page-container-col {
+    @apply w-full lg:w-7/12 flex flex-col;
+  }
+</style>

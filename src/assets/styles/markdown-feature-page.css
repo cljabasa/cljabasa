@@ -1,0 +1,59 @@
+.markdown-feature-page-container-col .post-author {
+  @apply text-base font-medium !important;
+}
+
+.markdown-feature-page-container-col .post-timestamp {
+  @apply text-sm font-normal !important;
+}
+
+.markdown-feature-page-container-col h1 {
+  @apply text-4xl font-bold mt-4 mb-2;
+}
+
+.markdown-feature-page-container-col h2 {
+  @apply text-3xl font-bold mt-4 mb-2;
+}
+
+.markdown-feature-page-container-col h3 {
+  @apply text-2xl font-bold mt-4 mb-2;
+}
+
+.markdown-feature-page-container-col h4 {
+  @apply text-xl font-bold mt-4 mb-2;
+}
+
+.markdown-feature-page-container-col h5 {
+  @apply text-lg font-bold;
+}
+
+.markdown-feature-page-container-col h6 {
+  @apply text-sm font-bold;
+}
+
+.markdown-feature-page-container-col p {
+  @apply text-lg mt-2 mb-4;
+}
+
+.markdown-feature-page-container-col a {
+  @apply text-blue-600 hover:text-blue-500 dark:text-blue-300 dark:hover:text-blue-200;
+}
+
+.markdown-feature-page-container-col ul {
+  @apply list-disc pl-6 mb-6;
+}
+
+.markdown-feature-page-container-col ul li {
+  @apply text-lg;
+}
+
+.markdown-feature-page-container-col ol {
+  @apply list-decimal pl-6 mb-6;
+}
+
+.markdown-feature-page-container-col ol li {
+  @apply text-lg;
+}
+
+.markdown-feature-page-container-col img {
+  @apply rounded-md shadow-md mt-4 mb-8;
+}

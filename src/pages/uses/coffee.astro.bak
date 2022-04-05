@@ -2,7 +2,7 @@
 import { format } from 'date-fns';
 
 import { Markdown } from 'astro/components';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '@layouts/BaseLayout.astro';
 
 // const contentArray = await Astro.glob('../../../content/uses-coffee.md');
 // const content = contentArray
