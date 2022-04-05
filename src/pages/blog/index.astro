@@ -4,6 +4,8 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 import BlogHero from '@components/blog/Hero.astro';
 import BlogPost from '@components/blog/Post.astro';
 
+// https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog-multiple-authors?file=src%2Fpages%2Fposts%2F[...page].astro&on=stackblitz
+
 const blogPostsRaw = await Astro.glob('./*.md');
 const blogPosts = blogPostsRaw
   .sort((a, b) => parseJSON(b.frontmatter.publishDateRaw) - parseJSON(a.frontmatter.publishDateRaw))

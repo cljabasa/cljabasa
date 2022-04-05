@@ -1,7 +1,7 @@
 ---
 title: The iPhone Journey
 description: "Wanting to find out if the grass was truly greener on the other side of the fence, I went and bought a brand new generations-old iPhone 6S Plus."
-publishDateRaw: '2022-01-16T16:00:00.000Z'
+publishDateRaw: '2021-01-16T16:00:00.000Z'
 author: 'Christian Jabasa'
 heroImage: https://res.cloudinary.com/kadto/image/upload/v1611150097/cljabasa/blog/the-iphone-journey/drew-hays-z0WDn0Mas9o-unsplash.jpg
 published: true
