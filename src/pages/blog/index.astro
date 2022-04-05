@@ -1,11 +1,12 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import BlogHero from '../../components/blog/Hero.astro';
-import BlogPost from '../../components/blog/Post.astro';
+import { parseJSON } from 'date-fns';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import BlogHero from '@components/blog/Hero.astro';
+import BlogPost from '@components/blog/Post.astro';
 
 const blogPostsRaw = await Astro.glob('./*.md');
 const blogPosts = blogPostsRaw
-  // .sort((a, b) => new Date(b.publishDate) - new Date(a.publishDate))
+  .sort((a, b) => parseJSON(b.frontmatter.publishDateRaw) - parseJSON(a.frontmatter.publishDateRaw))
   .filter((post) => post.frontmatter.published);
 
 const heroBlogPost = blogPosts[0];
