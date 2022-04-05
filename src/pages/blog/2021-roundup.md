@@ -1,7 +1,6 @@
 ---
 title: 2021 Roundup
 description: "I'd like to share the best albums, songs, podcasts, books, TV shows, and movies that helped me get through 2021."
-publishDate: 'Sunday, December 26 2021'
 publishDateRaw: '2021-12-25T16:00:00.000Z'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1640420573/cljabasa/blog/20211226-2021-roundup/ibrahim-boran-EP5m7d5neWA-unsplash_optimized.jpg'

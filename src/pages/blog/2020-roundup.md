@@ -1,7 +1,6 @@
 ---
 title: 2020 Roundup
 description: "I'd like to share the best albums, songs, podcasts, books, TV shows, and movies that helped me get through 2020."
-publishDate: 'Wednesday, January 6 2021'
 publishDateRaw: '2021-01-05T16:00:00.000Z'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1611467782/cljabasa/blog/20210106-2020-roundup/kelly-sikkema-CjdsgW4cVSU-unsplash.jpg'

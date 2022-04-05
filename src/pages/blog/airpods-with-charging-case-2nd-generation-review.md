@@ -1,7 +1,6 @@
 ---
 title: AirPods with Charging Case (2nd Generation) Review
 description: "I don’t plan to buy AirPods,” was what I said in The iPhone Journey. But being the walking contradiction that I am, I went and bought the least expensive one there is."
-publishDate: 'Sunday, March 7 2021'
 publishDateRaw: '2021-03-06T16:00:00.000Z'
 author: 'Christian Jabasa'
 heroImage: https://res.cloudinary.com/kadto/image/upload/v1615380733/cljabasa/blog/20200307-airpods-with-charging-case-2nd-generation-review/suganth-l2mirnegwoa-unsplash.jpg

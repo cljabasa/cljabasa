@@ -1,7 +1,6 @@
 ---
 title: 'Working From Home: Music'
 description: "White I do demand silence when I need to get into the nitty-gritty, more often than not, I turn to music to get the creative juices flowing."
-publishDate: 'Saturday, August 7 2021'
 publishDateRaw: '2021-08-06T16:00:00.000Z'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1627899179/cljabasa/blog/20210807-coding-music/vladimir-kondriianenko-mpnA-Cgrzv8-unsplash.jpg'

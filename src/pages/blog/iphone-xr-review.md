@@ -1,7 +1,6 @@
 ---
 title: 'iPhone XR Review'
 description: "I did tease this in my review of the iPhone 6S Plus. It's roughly been six months since then and I have some thoughts."
-publishDate: 'Monday, June 7 2021'
 publishDateRaw: '2021-06-06T16:00:00.000Z'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1622339281/cljabasa/blog/iphone-xr-review/quinton-coetzee-bZROblPGA60-unsplash.jpg'
