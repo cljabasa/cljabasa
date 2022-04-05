@@ -40,7 +40,7 @@ const openGraphTitle = `${content.title} | Christian Jabasa`;
 
     <main class="container mx-auto slot-container pt-6">
       <div class="flex flex-row justify-center px-6 mb-8">
-        <div class="w-full lg:w-10/12 flex flex-col space-y-1">
+        <div class="w-full lg:w-10/12 flex flex-col space-y-3">
           <h1 class="text-4xl lg:text-5xl font-black">{content.title}</h1>
 
           <h2 class="text-lg lg:text-xl font-black font-normal">{content.description}</h2>
@@ -50,7 +50,11 @@ const openGraphTitle = `${content.title} | Christian Jabasa`;
       <div class="flex flex-row justify-center px-6">
         <div class="w-full lg:w-10/12 flex flex-col mb-8">
           <div class="aspect-w-16 aspect-h-10">
-            <img src={content.heroImage} class="object-cover rounded-md shadow-md" />
+            <img
+              src={content.heroImage}
+              alt={content.heroImageAltText}
+              class="object-cover rounded-md shadow-md"
+            />
           </div>
         </div>
       </div>

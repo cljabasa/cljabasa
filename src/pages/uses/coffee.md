@@ -1,3 +1,14 @@
+---
+title: Uses (Coffee)
+description: "The coffee stuff."
+updatedDate: 'March 21, 2022'
+author: 'Christian Jabasa'
+heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1647686055/cljabasa/uses/yohan-marion-Y-D5wig6k6k-unsplash_optimized.jpg'
+heroImageAltText: 'A Hario V60'
+published: true
+layout: '@layouts/MarkdownFeaturePage.astro'
+---
+
 ## Gear
 
 - [Omega Copen Stainless Steel French Press (350ml)](https://omegahouseware.com.ph/products/copen-stainless-steel-french-press-with-filter-350ml-600ml) - A replacement for the 800ml Hosh French Press I had clumsily broken.
@@ -45,3 +56,7 @@ _I might give these another shot because I have a grinder now._
 - [Bo's Barista Blend, Benguet](https://www.boscoffee.com/products/barista-blend) - Pre-ground. I don't remember how it tasted.
 - [Bo's Coffee's Sagada](https://www.boscoffee.com/products/atok-benguet) - Pre-ground. I don't remember how it tasted.
 - [Silafe Kick Start Series Brewed Awakening](https://www.silcacoffee.com/portfolio-items/kickstart-brewed-awakening/) - Pre-ground. I don't remember how it tasted.
+
+# Tech
+
+Looking for the tech I use? Check them out [here](/uses).

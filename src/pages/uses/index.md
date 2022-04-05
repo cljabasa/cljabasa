@@ -1,10 +1,10 @@
 ---
 title: Uses
 description: "The apps. The gear. The services."
-publishDate: 'Wednesday, January 6 2021'
 updatedDate: 'February 11, 2022'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1643708834/cljabasa/uses/charles-patterson-O2ZD0JhVD5g-unsplash.jpg'
+heroImageAltText: 'An Apple Mac Mini on a desk'
 published: true
 layout: '@layouts/MarkdownFeaturePage.astro'
 ---
