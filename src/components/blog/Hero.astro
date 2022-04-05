@@ -1,8 +1,10 @@
 ---
+import { format, parseJSON } from 'date-fns';
+
 const { blogPost } = Astro.props;
 
 const { url } = blogPost;
-const { heroImage, title, author, publishDate, description } = blogPost.frontmatter;
+const { heroImage, title, author, publishDateRaw, description } = blogPost.frontmatter;
 ---
 
 <style>
@@ -33,7 +35,7 @@ const { heroImage, title, author, publishDate, description } = blogPost.frontmat
           </h5>
 
           <h6 class="text-black dark:text-white text-sm font-normal">
-            {publishDate}
+            {format(parseJSON(publishDateRaw), 'MMMM d, yyyy')}
           </h6>
         </div>
       </div>

@@ -1,7 +1,8 @@
 ---
-import AppBar from '../components/AppBar.astro';
-import '../assets/styles/global.css';
-import '../assets/styles/blog-post.css';
+import { format, parseJSON } from 'date-fns';
+import AppBar from '@components/AppBar.astro';
+import '@assets/styles/global.css';
+import '@assets/styles/blog-post.css';
 
 const { content } = Astro.props;
 const openGraphTitle = `${content.title} | Christian Jabasa's Blog`;
@@ -55,7 +56,9 @@ const openGraphTitle = `${content.title} | Christian Jabasa's Blog`;
             <div class="flex flex-row space-x-8 items-baseline">
               <h5 class="post-author">{content.author}</h5>
 
-              <h6 class="post-timestamp">{content.publishDate}</h6>
+              <h6 class="post-timestamp">
+                {format(parseJSON(content.publishDateRaw), 'MMMM d, yyyy')}
+              </h6>
             </div>
           </div>
 
