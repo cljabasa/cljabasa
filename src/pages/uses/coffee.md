@@ -23,7 +23,7 @@ My tongue only notices sweetness and roast levels for now. I'm still learning to
 
 ### April 6, 2022
 
-Purchased 500-grams of [Colmobia Cuaca 2415](https://goodcup.ph/products/colombia-cauca-2415-espresso-roast-or-filter-roast) from [The Good Cup Coffee Company](https://goodcup.ph/), a coffee shop and roastery based in Cebu City. Also got 250-grams of [Mount Apo Nelida Abe](https://goodcup.ph/products/philippines-mount-apo-nellida-abe). I got the former because I wanted to try washed process coffee and the latter for the sweet notes I got from the last honey process coffee I had. Order placed April 1st, roasted April 3rd, and delivered on April 6th. Very fresh. Feedback soon.
+Purchased 500-grams of [Colombia Cuaca 2415](https://goodcup.ph/products/colombia-cauca-2415-espresso-roast-or-filter-roast) from [The Good Cup Coffee Company](https://goodcup.ph/), a coffee shop and roastery based in Cebu City. Also got 250-grams of [Mount Apo Nelida Abe](https://goodcup.ph/products/philippines-mount-apo-nellida-abe). I got the former because I wanted to try washed process coffee and the latter for the sweet notes I got from the last honey process coffee I had. Order placed April 1st, roasted April 3rd, and delivered on April 6th. Very fresh. Feedback soon.
 
 ![Mount Apo Honey and Colombia Cuaca 2415 - The Good Cup Coffee Co.](https://res.cloudinary.com/kadto/image/upload/v1649246800/cljabasa/uses/IMG_1814_optimized.jpg)
 
