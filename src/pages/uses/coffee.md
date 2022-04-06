@@ -1,7 +1,7 @@
 ---
 title: Uses (Coffee)
 description: "The coffee stuff."
-updatedDate: 'March 21, 2022'
+updatedDate: 'April 6, 2022'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1647686055/cljabasa/uses/yohan-marion-Y-D5wig6k6k-unsplash_optimized.jpg'
 heroImageAltText: 'A Hario V60'
@@ -21,7 +21,14 @@ layout: '@layouts/MarkdownFeaturePage.astro'
 
 My tongue only notices sweetness and roast levels for now. I'm still learning to taste so I can only say if I like it or not. I can't yet tell if coffee is earthy, or citrusy, or if it has chocolate notes.
 
+### April 6, 2022
+
+Purchased 500-grams of [Colmobia Cuaca 2415](https://goodcup.ph/products/colombia-cauca-2415-espresso-roast-or-filter-roast) from [The Good Cup Coffee Company](https://goodcup.ph/), a coffee shop and roastery based in Cebu City. Also got 250-grams of [Mount Apo Nelida Abe](https://goodcup.ph/products/philippines-mount-apo-nellida-abe). I got the former because I wanted to try washed process coffee and the latter for the sweet notes I got from the last honey process coffee I had. Order placed April 1st, roasted April 3rd, and delivered on April 6th. Very fresh. Feedback soon.
+
+![Mount Apo Honey and Colombia Cuaca 2415 - The Good Cup Coffee Co.](https://res.cloudinary.com/kadto/image/upload/v1649246800/cljabasa/uses/IMG_1814_optimized.jpg)
+
 ### March 17, 2022
+
 Purchased 200-grams of [The Dream Coffee coffee beans](https://thedreamcoffee.ph/products/wholebeans) for Php. 395.00 from, well, [The Dream Coffee](https://thedreamcoffee.ph/). I placed an order on the 10th of March and got it on the 17th. I'm glad to report that the coffee beans have a roast date: 8th of March 2022. Not bad. Bought because of the pretty packaging and I was sold on [the story](https://thedreamcoffee.ph/blogs/learn/learn-the-dream). Feedback soon.
 
 Update 2022/03/21: It has sweet, funky-fermented-fruit flavors.
