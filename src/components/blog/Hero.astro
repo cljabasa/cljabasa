@@ -29,12 +29,12 @@ const { heroImage, title, author, publishDateRaw, description } = blogPost.front
           {title}
         </h2>
 
-        <div class="flex flex-row space-x-8 items-baseline">
+        <div class="flex flex-col md:flex-row space-y-1 md:space-x-8 items-baseline">
           <h5 class="text-black dark:text-white text-base font-medium">
             {author}
           </h5>
 
-          <h6 class="text-black dark:text-white text-sm font-normal">
+          <h6 class="text-black dark:text-white text-sm font-normal opacity-75 md:opacity-100">
             {format(parseJSON(publishDateRaw), 'MMMM d, yyyy')}
           </h6>
         </div>

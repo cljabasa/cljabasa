@@ -9,22 +9,21 @@ const { heroImage: postImage, title, author, publishDateRaw, description } = blo
 
 <style>
 .inner-container {
-  grid-template-columns: 4fr 8fr;
-  @apply grid gap-8;
+  @apply grid md:grid-cols-12 gap-6 md:gap-8;
 }
 
 .post-image-container {
-  @apply aspect-w-16 aspect-h-10 mb-6;
+  @apply aspect-w-16 aspect-h-10 mb-0 md:mb-6;
 }
 
 .content-container {
-  /* @apply md:px-8; */
+  @apply md:col-span-8;
 }
 </style>
 
 <a href={url}>
   <div class="inner-container">
-    <div>
+    <div class="md:col-span-4">
       <div class="post-image-container">
         <img src={postImage} alt="" class="object-cover rounded-md shadow-md">
       </div>
@@ -36,12 +35,12 @@ const { heroImage: postImage, title, author, publishDateRaw, description } = blo
           {title}
         </h2>
 
-        <div class="flex flex-row space-x-8 items-baseline">
+        <div class="flex flex-col md:flex-row space-y-1 md:space-x-8 items-baseline">
           <h5 class="text-black dark:text-white text-base font-medium">
             {author}
           </h5>
 
-          <h6 class="text-black dark:text-white text-sm font-normal">
+          <h6 class="text-black dark:text-white text-sm font-normal opacity-75 md:opacity-100">
             {format(parseJSON(publishDateRaw), 'MMMM d, yyyy')}
           </h6>
         </div>
