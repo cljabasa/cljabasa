@@ -28,9 +28,9 @@ Purchased 500-grams of [Colombia Cuaca 2415](https://goodcup.ph/products/colombi
 **Update 2022/04/16**
 
 - Cacua 2415: As far as I'm aware of, this is the first washed process coffee I had. That and the light roast really do bring out the origin characteristics of the coffee. True to the descriptors on the packaging, the resulting brew from a V60 tastes sweet and has a nice acidic kick.
-- Batafama Nelida Abe: I've had honey-process coffee before but I'll need a few more cups before I can give my two cents on this.
+- Batafama Nellida Abe: I've had honey-process coffee before but I'll need a few more cups before I can give my two cents on this.
 
-![Batfama Nelida Abe and Colombia Cuaca 2415 - The Good Cup Coffee Co.](https://res.cloudinary.com/kadto/image/upload/v1649246800/cljabasa/uses/IMG_1814_optimized.jpg)
+![Batfama Nellida Abe and Colombia Cuaca 2415 - The Good Cup Coffee Co.](https://res.cloudinary.com/kadto/image/upload/v1649246800/cljabasa/uses/IMG_1814_optimized.jpg)
 
 ### March 17, 2022
 
