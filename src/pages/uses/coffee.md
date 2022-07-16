@@ -1,7 +1,7 @@
 ---
 title: Uses (Coffee)
 description: "The coffee stuff."
-updatedDate: 'July 18, 2022'
+updatedDate: 'July 16, 2022'
 author: 'Christian Jabasa'
 heroImage: 'https://res.cloudinary.com/kadto/image/upload/v1647686055/cljabasa/uses/yohan-marion-Y-D5wig6k6k-unsplash_optimized.jpg'
 heroImageAltText: 'A Hario V60'
