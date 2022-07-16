@@ -29,7 +29,7 @@ layout: '@layouts/MarkdownFeaturePage.astro'
 - [Wipr](https://giorgiocalderolla.com/wipr.html) - No-nonsense content blocker for Safari. I use the [uBlock Origin](https://github.com/gorhill/uBlock) browser extension on Firefox and Chromium-based browsers.
 - [Maccy](https://maccy.app) - Free and open-source clipboard manager. Trust me, you need this. Used to use [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12).
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets me hide menu bar icons I don't want to see.
-- [Rectangle](https://rectangleapp.com) - Because macOS doesn't have window snapping out-of-the-box. Free and open-source; I used to use [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) before.
+- [Rectangle](https://rectangleapp.com) - Because macOS doesn't have window snapping out-of-the-box. Free and open-source; was using [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) before.
 - [Keka](https://www.keka.io) - Compression/Decompression utility. Used [The Unarchiver](https://macpaw.com/the-unarchiver) before.
 - [DaisyDisk](https://daisydiskapp.com) - Made the sting of using a 128GB SSD less painful.
 - [IINA](https://iina.io) - Built on top of [mpv](https://mpv.io). Perfect balance of power and simplicity.
@@ -48,7 +48,7 @@ layout: '@layouts/MarkdownFeaturePage.astro'
 - [Nudget](https://nudgetapp.com) - Super simple budgeting app.
 - [Tailor](https://apps.apple.com/ph/app/tailor-screenshot-stitching/id926653095) - Screenshots stitching.
 - [Apollo](https://apolloapp.io) - Best reddit client on iOS.
-- [Barista](https://www.baristacoffeeapp.com) - I only have a generic kitchen scale so I got this app to compensate for the lack of a timer.
+- [Barista](https://www.baristacoffeeapp.com) - For timing my (coffee) brews.
 
 I just use a lot of first-party iOS apps for the rest: Mail, Reminders, Notes, Weather, etc.
 
